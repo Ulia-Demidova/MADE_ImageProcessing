@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facial Processing</string>
+    <string name="action_OpenGallery">Open...</string>
+    <string name="action_RecognizeAgeGender">Age/gender/ethnicity</string>
+    <string name="action_RecognizeEmotionTfLite">Emotion (TfLite)</string>
+    <string name="action_RecognizeCelebaAttributes">Celeba (Pytorch)</string>
+    <string name="action_GroupByGender">Group by gender</string>
+</resources>
