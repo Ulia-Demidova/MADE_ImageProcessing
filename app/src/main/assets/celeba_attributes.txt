@@ -1,0 +1,11 @@
+5:Bangs
+8:Black_Hair
+9:Blond_Hair
+11:Brown_Hair
+15:Eyeglasses
+22:Mustache
+24:No_Beard
+31:Smiling
+32:Straight_Hair
+33:Wavy_Hair
+39:Young
